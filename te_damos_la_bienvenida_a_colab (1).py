@@ -671,10 +671,7 @@ st.sidebar.info(
     "Herramienta desarrollada para análisis de datos energéticos"
 )
 
-File "/mount/src/trabajo_en_clase/te_damos_la_bienvenida_a_colab (1).py", line 674
-
-
-
+pip install streamlit pyngrok
 python
 # Distribución de variables clave
 plt.figure(figsize=(15, 10))
