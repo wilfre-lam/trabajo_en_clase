@@ -671,7 +671,6 @@ st.sidebar.info(
     "Herramienta desarrollada para análisis de datos energéticos"
 )
 
-pip install streamlit pyngrok
 python
 # Distribución de variables clave
 plt.figure(figsize=(15, 10))
