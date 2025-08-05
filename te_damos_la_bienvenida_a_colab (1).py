@@ -189,7 +189,7 @@ Estos son algunos de los notebooks relacionados con el aprendizaje automático; 
 """
 
 # Instalación de paquetes necesarios (ejecutar primero)
-!pip install pandas matplotlib seaborn plotly
+#pip install pandas matplotlib seaborn plotly
 
 # Importar librerías
 import pandas as pd
