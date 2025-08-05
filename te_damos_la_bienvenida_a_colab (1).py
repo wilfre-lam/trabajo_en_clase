@@ -442,7 +442,7 @@ import matplotlib.pyplot as plt
 df.plot(x='Año', y='Consumo_TJ', kind='bar', title='Consumo Energético (TJ)')
 plt.show()
 
-!pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
