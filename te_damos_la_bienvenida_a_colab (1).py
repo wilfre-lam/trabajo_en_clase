@@ -204,9 +204,7 @@ plt.style.use('ggplot')
 plt.rcParams['figure.figsize'] = (12, 6)
 sns.set_palette("husl")
 
-# 1. Cargar datos (reemplaza con tu archivo)
-from google.colab import files
-uploaded = files.upload()
+
 
 # Cargar el dataset
 import io
